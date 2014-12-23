@@ -1,0 +1,9 @@
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
