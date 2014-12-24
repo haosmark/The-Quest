@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-namespace TheQuest
+namespace TheQuest.Characters
 {
     abstract class Enemy : Mover
     {
@@ -27,7 +27,7 @@ namespace TheQuest
 
         protected bool nearPlayer()
         {
-            return (Nearby(game.PlayerLocation, NearPlayerDistance));
+            return (Nearby(game.PlayerLocation, nearPlayerDistance));
         }
 
         protected Direction findPlayerDirection(Point playerLocation)

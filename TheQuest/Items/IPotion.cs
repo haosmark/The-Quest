@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TheQuest.Weapons
+namespace TheQuest.Items
 {
     interface IPotion
     {

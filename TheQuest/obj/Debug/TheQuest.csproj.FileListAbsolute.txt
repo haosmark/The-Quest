@@ -7,3 +7,10 @@ c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug
 c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
 c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.exe
 c:\users\denis\documents\visual studio 2013\Projects\TheQuest\TheQuest\obj\Debug\TheQuest.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\The Quest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache

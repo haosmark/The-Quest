@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace TheQuest.Items
 {
-    class Sword : Weapon
+    class Bow : Weapon
     {
-        public override string Name { get { return "Sword"; } }
-        public const int Radius = 3;
-        public const int Damage = 10;
+        public override string Name { get { return "Bow"; } }
+        public const int Radius = 30;
+        public const int Damage = 1;
 
-        public Sword(Game game, Point location)
+        public Bow(Game game, Point location)
             : base(game, location)
         {
 
